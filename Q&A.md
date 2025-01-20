@@ -7,6 +7,7 @@
     1. 保存される場合,どこに保存されるのか?
 1. containerの一覧を確認するには?
 1. [podmanのコンテナ内で開発する場合, ソースコードをホストOS内で管理したい](podman-volume.md)
+1. [container内で日本語文字列のディレクトリが文字化け](locale.md)
 1. postgreSQLをpodmanで使う
     1. 別のコンテナからpostgreSQLに接続する方法は?
 1. containerが使用しているCPUやメモリのサイズを確認するには?
