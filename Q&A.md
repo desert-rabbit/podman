@@ -1,7 +1,8 @@
 ![Podman](imgs/podman-3-logo-95w-90h.webp)
 # Q&A
-1. [Podmanのインストール方法](install.md)
-1. [Podmanのアンインストール方法]
+1. [Podmanのインストール](install.md)
+1. [Podmanのアンインストール]
+1. [Podmanのアップデート](update.md)
 1. イメージをpullするときに, インストール先ディレクトリを変更したい
 1. containerを起動するときに, container情報はどこかに保存されるのか？
     1. 保存される場合,どこに保存されるのか?
